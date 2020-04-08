@@ -10,3 +10,7 @@ In case you wish to learn more about image segmentation, i would like to recomme
 I really enjoyed reading it! It's really great.
 
 - https://www.learnopencv.com/image-segmentation/
+
+connect with me on Linkdin
+
+- https://www.linkedin.com/in/rohan-saxena-2846a5163/
