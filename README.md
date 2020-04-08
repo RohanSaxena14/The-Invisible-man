@@ -11,6 +11,8 @@ I really enjoyed reading it! It's really great.
 
 - https://www.learnopencv.com/image-segmentation/
 
-connect with me on Linkdin
+
+
+if you like you can connect with me on Linkdin as well
 
 - https://www.linkedin.com/in/rohan-saxena-2846a5163/
