@@ -12,12 +12,17 @@ I really enjoyed reading it! It's really great.
 - https://www.learnopencv.com/image-segmentation/
 
 
+
+if you want to connect with me on Linkdin use this link here
+
+- https://www.linkedin.com/in/rohan-saxena-2846a5163/
+
+
+
+
 This is the output on "mr_bean_sample_video.mp4" file
 
 ![](output.gif)
 
 
 
-if you want to connect with me on Linkdin use this link here
-
-- https://www.linkedin.com/in/rohan-saxena-2846a5163/
