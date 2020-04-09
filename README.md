@@ -12,6 +12,11 @@ I really enjoyed reading it! It's really great.
 - https://www.learnopencv.com/image-segmentation/
 
 
+Here are some results i got
+
+![](output.gif)
+
+
 
 if you want to connect with me on Linkdin use this link here
 
