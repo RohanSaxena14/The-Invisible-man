@@ -12,7 +12,7 @@ I really enjoyed reading it! It's really great.
 - https://www.learnopencv.com/image-segmentation/
 
 
-This is the output on "mr_bean.mp4" file
+This is the output on "mr_bean_sample_video.mp4" file
 
 ![](output.gif)
 
