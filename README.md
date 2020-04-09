@@ -13,6 +13,6 @@ I really enjoyed reading it! It's really great.
 
 
 
-if you like you can connect with me on Linkdin as well
+if you want to connect with me on Linkdin use this link here
 
 - https://www.linkedin.com/in/rohan-saxena-2846a5163/
